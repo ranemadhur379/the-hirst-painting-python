@@ -1,5 +1,5 @@
 from turtle import Turtle, Screen
-#
+#creating polygons with sides 3 to 10 with random colors
 import random
 from turtle import Turtle, Screen
 #
